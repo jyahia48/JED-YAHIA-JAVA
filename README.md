@@ -4,7 +4,7 @@ Ce dépôt contient une application Java (JavaFX + MySQL) de gestion des salaire
 
 ## Arborescence
 
-
+```
 src/
   basedonne.sql
   Main.java
@@ -27,7 +27,7 @@ src/
   view/
     Interface.fxml
 projetjava.iml
-
+```
 
 ## Description des éléments
 
